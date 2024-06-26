@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZadachiDev
 - 👀 I’m interested in: Games
-- 🌱 I’m currently learning: C#
+- 🌱 I’m currently learning: C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Be patient
 - 😄 Pronouns: he/him
